@@ -17,7 +17,8 @@ var app, map, data;
             user: 0,
             current: 0,
             total: 0
-        }
+        },
+        selected: 'Välj spel'
     };
 
     app = new Vue({
@@ -27,12 +28,14 @@ var app, map, data;
 
         },
         methods: {
-            setMode: function(index) {
-                this.loading = true;
-                this.mode = modes[index];
-                this.fetchAreas();
+            setMode: function(e) {
+                if (this.selected !== 'Välj spel') {
+                    this.loading = true;
+                    this.mode = modes[this.selected];
+                    this.fetchAreas();
 
-                map.options.maxZoom = this.mode.hasOwnProperty('maxZoom') ? this.mode.maxZoom : 6;
+                    map.options.maxZoom = this.mode.hasOwnProperty('maxZoom') ? this.mode.maxZoom : 6;
+                }
             },
             fetchAreas: function() {
                 var self = this;

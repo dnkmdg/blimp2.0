@@ -19,11 +19,15 @@
         <div v-if="!mode || loading" class="loading">
             <div class="cell">
                 <h1 class="logo">blimp 2.0</h1>
-                <div v-if="!loading">
-                    <button class="btn btn-default" v-for="(mode,index) in modes" v-on:click="setMode(index)">{{ mode.title }}</button>
-                </div>
-                <div v-if="loading">
-                    <h2><i class="fa fa-circle-o-notch fa-spin"></i> <span>Such loading, very crunch</span>...</h2>
+                <br>
+                <div class="col-sm-4 col-sm-offset-4">
+                    <select class="form-control" v-if="!loading" v-on:change="setMode" v-model="selected">
+                    <option>Välj spel</option>
+                    <option v-for="(mode,index) in modes" :value="index">{{ mode.title }}</option>
+                </select>
+                    <div v-if="loading">
+                        <h2><i class="fa fa-circle-o-notch fa-spin"></i> <span>Such loading, very crunch</span>...</h2>
+                    </div>
                 </div>
             </div>
         </div>
