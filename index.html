@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Blimp 2</title>
+    <script src="assets/js/vue.js"></script>
+    <script src="assets/js/axios.js"></script>
+    <script src="assets/js/leaflet.js"></script>
+
+    <link rel="stylesheet" href="assets/css/leaflet.css" />
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/css/index.css">
+
+</head>
+
+<body>
+    <div id="app">
+        <div v-if="!mode || loading" class="loading">
+            <div class="cell">
+                <h1 class="logo">blimp 2.0</h1>
+                <div v-if="!loading">
+                    <button class="btn btn-default" v-for="(mode,index) in modes" v-on:click="setMode(index)">{{ mode.title }}</button>
+                </div>
+                <div v-if="loading">
+                    <h2><i class="fa fa-circle-o-notch fa-spin"></i> <span>Such loading, very crunch</span>...</h2>
+                </div>
+            </div>
+        </div>
+        <div v-if="done" class="congrats" v-cloak>
+            <div class="cell">
+                <img src="doge.jpeg" class="fa-spin" style="border-radius: 200px; max-width: 200px; margin: 0 auto;">
+                <h1 class="logo">{{ score.user }} av {{ score.total }} poäng!</h1>
+                <h2><span>WOW Very success!!</span> Much world. Such accomplish! </h2>
+                <button v-on:click="resetPage">igen!</button>
+            </div>
+        </div>
+        <div class="row">
+            <div id="map" class="col-sm-12">
+            </div>
+            <div id="sidebar" class="col-sm-3">
+                <h2 class="text-center">{{mode.title}}</h2>
+                <div class="area-img img-circle">
+                    <img class="" :src="current.imageURI">
+                </div>
+                <div class="list-group">
+                    <a href="#" v-on:click="checkAnswer(index)" v-bind:class="{'list-group-item-success': alt.hasClicked && alt.correct, 'list-group-item-danger' : alt.hasClicked && !alt.correct}" class="list-group-item" v-for="(alt,index) in alternatives">
+                        {{ alt.text }}
+                    </a>
+                </div>
+                <h3>Poäng: {{ score.user}} av {{ score.total }}</h3>
+            </div>
+        </div>
+    </div>
+
+    <script src="data/modes.js"></script>
+    <script src="assets/js/app.js"></script>
+</body>
+
+</html>

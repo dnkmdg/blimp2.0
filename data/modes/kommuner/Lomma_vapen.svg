@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+<metadata
+   id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Lomma kommunvapen</dc:title><dc:date>14-06-2007</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+</metadata>
+  <defs
+     id="defs4168">
+    <clipPath
+       id="clipPath1925">
+      <path
+         d="M 249.55058,-25.928486 L 125.50008,-25.928486 L 1.4495292,-25.928486 L 1.4495292,147.56811 C 0.68228915,241.28899 81.738967,275.38786 125.50006,275.38786 C 168.49391,275.38786 250.31781,241.28899 249.55058,147.56811 L 249.55058,-25.928486 z "
+         id="use2391" />
+    </clipPath>
+  </defs>
+  <path
+     d="M 249.55058,1.4395041 L 125.50008,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Shield" />
+  <path
+     d="M 126.47308,11.83038 C 117.95585,11.830393 111.05846,18.490312 111.06103,26.679959 C 111.0591,32.822178 114.93846,38.078088 120.47326,40.329572 L 120.47326,51.091766 L 89.42414,51.091766 C 87.601206,51.091766 87.792713,60.614973 89.161647,60.653996 L 120.02327,60.578998 C 120.05787,67.944712 120.15479,75.300228 120.06078,82.66587 C 119.71318,97.880587 119.41478,113.12151 119.27329,128.33957 C 119.21079,136.58136 118.91895,144.46667 118.59831,145.88908 C 117.38978,151.25028 114.02005,151.97052 103.59873,149.11399 C 92.760873,146.14331 79.277731,139.55982 77.011991,136.10186 C 75.21076,133.35279 74.92273,130.97801 76.224515,129.53955 C 76.873525,128.82238 77.83152,128.39852 78.361953,128.60208 C 78.948446,128.8271 79.566312,128.35125 79.936909,127.36461 C 81.241427,123.8915 76.888275,118.73945 68.312239,113.64 C 66.227802,112.40052 62.821903,109.7665 60.737454,107.75266 C 58.550373,105.63968 56.645006,104.28023 56.200082,104.56525 C 54.815694,105.45207 51.970563,111.8651 51.100227,116.07743 C 49.350606,124.5454 51.587785,137.04963 55.712597,141.95169 C 57.890006,144.53937 59.104924,144.56451 59.612486,142.02669 C 60.506819,137.55504 66.073954,138.83005 72.13713,144.91411 C 76.935759,149.72925 86.044458,156.71057 90.024122,158.60122 C 91.540075,159.32142 93.724512,160.47769 94.86148,161.18865 C 95.998444,161.89958 99.404356,163.33907 102.43627,164.37605 C 108.78808,166.54856 116.21554,170.40317 119.1608,173.03831 C 120.27969,174.03936 121.96423,175.38058 122.91069,176.00073 C 124.5663,177.08554 124.71036,177.04307 125.83561,175.32574 C 128.17813,171.75058 132.20198,168.62858 138.32274,165.65101 C 141.76276,163.97753 145.0783,162.6136 145.71006,162.6136 C 147.05285,162.61363 158.38305,157.603 165.2095,153.98886 C 170.55887,151.15672 172.99539,149.43035 178.9716,144.23912 C 185.71855,138.37842 189.11784,137.71097 192.65872,141.5767 L 194.87116,144.01413 L 196.29612,142.43917 C 198.86403,139.63089 199.81198,136.82386 200.3085,130.47702 C 200.68815,125.62375 200.52954,122.98932 199.59601,118.77735 C 198.12092,112.1218 195.63298,106.41743 193.78369,105.42772 C 192.61606,104.80281 192.23159,104.97926 191.23375,106.5902 C 189.49874,109.39119 187.053,111.59726 182.38401,114.61497 C 176.7934,118.22831 173.44659,121.97228 172.4093,125.67715 C 171.40731,129.25591 171.85795,130.55711 173.75926,129.53955 C 175.83335,128.42952 177.16007,128.72328 177.95914,130.47702 C 179.08415,132.94614 177.40407,134.91614 170.87183,138.80178 C 159.71522,145.43822 144.75572,150.87643 137.64777,150.87643 C 134.2937,150.87643 131.13991,149.5784 130.63547,147.98902 C 130.39222,147.2226 130.40749,138.17692 130.63547,127.88959 C 130.86346,117.60224 131.20014,98.511589 131.42295,85.440792 C 131.64576,72.369995 131.93281,61.498016 132.06043,61.291478 C 132.18808,61.084975 139.3279,60.986758 147.885,61.066484 C 165.63863,61.231887 164.68151,61.558901 164.53452,55.104153 L 164.45953,51.091766 L 131.91042,51.091766 L 131.91042,40.517067 C 137.73627,38.398707 141.88714,33.023699 141.88516,26.679959 C 141.88772,18.490288 134.99032,11.83038 126.47308,11.83038 z M 133.60575,26.236105 C 133.60699,22.260546 130.25561,19.037089 126.12103,19.037089 C 121.98646,19.037089 118.63506,22.260546 118.6363,26.236105 C 118.63506,30.211676 121.98646,33.43512 126.12103,33.43512 C 130.25561,33.43512 133.60699,30.211676 133.60575,26.236105 z "
+     style="fill:#ffcd50;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1"
+     id="Anchor" />
+  <g
+     transform="translate(0,27.36799)"
+     clip-path="url(#clipPath1925)"
+     id="Mur"
+     style="fill:#ffcd50;fill-opacity:1">
+    <path
+       d="M -24.5,209.72673 L 14.9737,209.72673 L 14.9737,229.46358 L -24.5,229.46358 L -24.5,209.72673 z "
+       style="fill:#ffcd50;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="Sten" />
+    <path
+       d="M -24.5,233.41096 L -6.7368311,233.41096 L -6.7368311,253.14781 L -24.5,253.14781 L -24.5,233.41096 z "
+       style="fill:#ffcd50;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="Halv-sten" />
+    <use
+       transform="translate(43.42107,-2.281302e-5)"
+       id="use2000"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(21.7105,23.68424)"
+       id="use2002"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(86.84214,-2.281302e-5)"
+       id="use2004"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(130.2632,-2.281302e-5)"
+       id="use2006"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(65.13161,23.68424)"
+       id="use2008"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(173.6843,-2.281302e-5)"
+       id="use2012"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(108.5527,23.68424)"
+       id="use2010"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(151.9737,23.68424)"
+       id="use2014"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(0,-47.36844)"
+       id="use2050"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#Halv-sten" />
+    <use
+       transform="translate(21.71054,-23.68424)"
+       id="use2054"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(65.13161,-23.68424)"
+       id="use2056"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(108.5527,-23.68424)"
+       id="use2058"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(151.9737,-23.68424)"
+       id="use2060"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(0,-47.36844)"
+       id="use2062"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(86.84214,-47.36844)"
+       id="use2064"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(173.6843,-47.36844)"
+       id="use2066"
+       width="744.09448"
+       height="1052.3622"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(0,47.36844)"
+       id="use2176"
+       width="251"
+       height="304.20001"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(43.42107,47.36844)"
+       id="use2178"
+       width="251"
+       height="304.20001"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(86.84214,47.36844)"
+       id="use2180"
+       width="251"
+       height="304.20001"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(130.2632,47.36844)"
+       id="use2182"
+       width="251"
+       height="304.20001"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(173.6843,47.36844)"
+       id="use2184"
+       width="251"
+       height="304.20001"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(217.1053,0)"
+       id="use2186"
+       width="251"
+       height="304.20001"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(217.1053,47.36844)"
+       id="use2188"
+       width="251"
+       height="304.20001"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(195.3948,-23.6842)"
+       id="use2190"
+       width="251"
+       height="304.20001"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(195.3948,23.68424)"
+       id="use2192"
+       width="251"
+       height="304.20001"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(260.5264,0)"
+       id="use2194"
+       width="251"
+       height="304.20001"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(260.5264,47.36844)"
+       id="use2196"
+       width="251"
+       height="304.20001"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(238.8159,23.68424)"
+       id="use2198"
+       width="251"
+       height="304.20001"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(238.8159,-23.6842)"
+       id="use2200"
+       width="251"
+       height="304.20001"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(260.5264,-47.36844)"
+       id="use2202"
+       width="251"
+       height="304.20001"
+       xlink:href="#Sten" />
+    <use
+       transform="translate(282.237,0)"
+       id="use2204"
+       width="251"
+       height="304.20001"
+       xlink:href="#Halv-sten" />
+    <use
+       transform="translate(282.237,-47.36844)"
+       id="use2206"
+       width="251"
+       height="304.20001"
+       xlink:href="#Halv-sten" />
+  </g>
+  <path
+     d="M 249.55062,1.4395041 L 125.50012,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="color:#000000;fill:none;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+     id="Frame" />
+</svg>

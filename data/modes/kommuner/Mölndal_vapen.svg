@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg   
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+   
+xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+ 
+version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+<metadata
+ id="metadata14"><rdf:RDF>
+      
+ <cc:Work
+ rdf:about="">
+  <dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+   <cc:license
+  rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" />
+
+     <dc:title>Molndals_kommunvapen</dc:title>
+     <dc:date>21-01-2007</dc:date>
+     <dc:creator>
+      <cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent>
+     </dc:creator>
+
+ </cc:Work>
+ <cc:License
+   rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">
+
+  <cc:permits 
+ rdf:resource="http://web.resource.org/cc/Reproduction" />
+
+  <cc:permits
+  rdf:resource="http://web.resource.org/cc/Distribution" />
+  <cc:requires rdf:resource="http://web.resource.org/cc/Notice" />
+  <cc:requires
+ rdf:resource="http://web.resource.org/cc/Attribution" />
+
+  <cc:permits  rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+
+  <cc:requires
+ rdf:resource="http://web.resource.org/cc/ShareAlike" />
+       </cc:License>
+
+</rdf:RDF>
+</metadata>  
+
+  <defs
+     id="defs4168" />
+  <g
+     id="Molndals_kommunvapen">
+    <path
+       d="M 1.4495603,1.4395041 L 125.50006,1.4395041 L 249.55061,1.4395041 L 249.55061,174.9361 C 250.31785,268.65698 169.26117,302.75585 125.50008,302.75585 C 82.506226,302.75585 0.68233088,268.65698 1.4495603,174.9361 L 1.4495603,1.4395041 z "
+       style="color:#000000;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+       id="Shield" />
+    <path
+       d="M 91,187.02325 C 116.11058,175.66175 149.28738,173.43524 168.58539,201.00467 C 187.87102,228.55641 168.69579,262.97412 120.82436,262.26561 L 120.75482,264.20016 C 121.74507,264.42263 123.9546,265.65137 123.85321,267.87687 C 123.75756,269.97731 120.94546,270.07607 120.82098,271.8016 C 120.67343,273.84685 120.62338,273.13037 121.97688,277.65217 C 125.17646,288.34148 121.20101,295.66626 117.57411,295.44669 C 113.85746,295.22167 110.66319,288.32849 114.17583,278.27685 C 115.94247,273.22153 116.14001,273.09826 115.91313,271.70514 C 115.65806,270.1389 112.61068,269.94157 112.62436,267.52626 C 112.63854,265.02805 114.72731,264.25749 115.76678,264.17809 L 115.6453,257.79846 C 155.36281,250.24213 165.5075,229.69644 158.15854,213.18354 C 150.94007,196.96387 136.37387,181.73752 91,187.02325 z "
+       style="fill:#eeeeee;fill-opacity:1"
+       id="Sickle" />
+    <path
+       d="M 125.5,10.01831 C 100.66001,10.01831 80.5,30.178311 80.5,55.018308 C 80.5,79.858301 100.66,100.0183 125.5,100.0183 C 150.33999,100.0183 170.5,79.858301 170.5,55.018308 C 170.5,30.178311 150.33999,10.01831 125.5,10.01831 z M 125.5,21.268305 C 127.49286,21.268305 129.45167,21.442738 131.35,21.774557 L 131.35,39.268304 L 119.65,39.268304 L 119.65,21.774557 C 121.54832,21.442738 123.50714,21.268305 125.5,21.268305 z M 109.75,25.177684 L 109.75,39.268304 L 95.659373,39.268304 C 98.8327,33.271374 103.75308,28.351013 109.75,25.177684 z M 141.25,25.177684 C 147.24692,28.351013 152.1673,33.271374 155.34062,39.268304 L 141.25,39.268304 L 141.25,25.177684 z M 92.256247,49.168306 L 109.75,49.168306 L 109.75,60.868305 L 92.256247,60.868305 C 91.924435,58.969981 91.750001,57.011173 91.750001,55.018308 C 91.750001,53.025437 91.924435,51.066631 92.256247,49.168306 z M 119.65,49.168306 L 131.35,49.168306 L 131.35,60.868305 L 119.65,60.868305 L 119.65,49.168306 z M 141.25,49.168306 L 158.74374,49.168306 C 159.07556,51.066631 159.24999,53.025437 159.24999,55.018308 C 159.24999,57.011173 159.07556,58.969981 158.74374,60.868305 L 141.25,60.868305 L 141.25,49.168306 z M 95.659373,70.768306 L 109.75,70.768306 L 109.75,84.858923 C 103.75308,81.685598 98.8327,76.765237 95.659373,70.768306 z M 119.65,70.768306 L 131.35,70.768306 L 131.35,88.262048 C 129.45167,88.593869 127.49286,88.768307 125.5,88.768307 C 123.50714,88.768307 121.54832,88.593869 119.65,88.262048 L 119.65,70.768306 z M 141.25,70.768306 L 155.34062,70.768306 C 152.1673,76.765237 147.24692,81.685598 141.25,84.858923 L 141.25,70.768306 z "
+       style="fill:#eeeeee;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.88800001;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1"
+       id="Kvarnhjul" />
+    <rect
+       width="248.11072"
+       height="65.120682"
+       x="0.5"
+       y="105.36725"
+       style="fill:#eeeeee;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.88800001;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Bjalke" />
+    <path
+       d="M 1.4495187,1.4395041 L 125.50002,1.4395041 L 249.55056,1.4395041 L 249.55056,174.9361 C 250.3178,268.65698 169.26112,302.75585 125.50004,302.75585 C 82.506186,302.75585 0.68228966,268.65698 1.4495187,174.9361 L 1.4495187,1.4395041 z "
+       style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round;stroke-linejoin:bevel;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block"
+       id="Frame" />
+  </g>
+</svg>

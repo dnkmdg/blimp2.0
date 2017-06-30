@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="251"
+   height="304.20001"
+   id="svg4166">
+  <defs
+     id="defs4168">
+    <clipPath
+       id="clipPath3817">
+      <path
+         d="M 300.74811,218.01582 L 384.96257,218.01582 L 415.58601,259.29089 L 303.41102,259.29089 L 300.74811,218.01582 z "
+         id="use2096" />
+    </clipPath>
+    <clipPath
+       id="clipPath3493">
+      <path
+         d="M 304.18599,310.90328 L 409.46795,310.56034 C 429.12413,313.85531 439.13209,332.42264 438.96062,346.56883 C 438.78021,361.45224 427.9866,367.14511 427.9866,367.14511 L 315.50295,367.14511 L 304.18599,310.90328 z "
+         id="use2133" />
+    </clipPath>
+    <clipPath
+       id="clipPath2686">
+      <use
+         transform="matrix(1.95303,0,0,1.95303,-3.105708,27.44014)"
+         id="use2684"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         xlink:href="#Shield" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata1880"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Helsingborg kommunvapen</dc:title><dc:date>2009-01-04</dc:date><dc:creator><cc:Agent><dc:title>Lokal_Profil</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" /><dc:rights><cc:Agent><dc:title>cc-by-sa-2.5</dc:title></cc:Agent></dc:rights><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Attribution" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /></cc:License></rdf:RDF>
+  </metadata>
+  <path
+     d="M 249.55058,1.4395041 L 1.4495291,1.4395041 L 1.4495291,174.9361 C 0.68228908,268.65698 81.738969,302.75585 125.50006,302.75585 C 168.49391,302.75585 250.31781,268.65698 249.55058,174.9361 L 249.55058,1.4395041 z "
+     style="fill:#eeeeee;stroke:none"
+     id="Shield" />
+  <g
+     transform="matrix(0.512025,0,0,0.512025,1.5902,-14.05004)"
+     style="fill:#d40000;stroke:#eeeeee"
+     id="Borg">
+    <g
+       transform="translate(-0.30185,0)"
+       id="H-sida">
+      <g
+         id="H-lower">
+        <path
+           d="M 429.07853,460.11757 L 429.07853,360.15109 L 330.525,360.15109 L 330.525,460.11757 L 429.07853,460.11757 z "
+           id="path2218" />
+        <path
+           d="M 428.82274,375.2061 L 332.892,375.332"
+           style="fill:none"
+           id="path2220" />
+        <use
+           transform="translate(0,3.9)"
+           id="use2222"
+           x="0"
+           y="0"
+           width="484"
+           height="600"
+           xlink:href="#path2220" />
+        <use
+           transform="translate(0,35.8)"
+           id="use2224"
+           x="0"
+           y="0"
+           width="484"
+           height="600"
+           xlink:href="#use2222" />
+        <use
+           transform="translate(0,3)"
+           id="use2226"
+           x="0"
+           y="0"
+           width="484"
+           height="600"
+           xlink:href="#use2224" />
+        <g
+           id="g3916">
+          <path
+             d="M 426.32005,412.24303 L 418.82673,412.24303 L 418.82673,385.64175 C 418.82673,384.26231 420.38782,381.89509 422.57337,381.89509 C 424.75892,381.89509 426.32001,383.88885 426.32001,385.64175 L 426.32005,412.24303 z "
+             style="fill:none"
+             id="use2228" />
+          <use
+             transform="translate(-10.68568,0)"
+             id="use2230"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2228" />
+          <use
+             transform="translate(-21.37136,0)"
+             id="use2232"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2228" />
+          <use
+             transform="translate(-32.05703,0)"
+             id="use2234"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2228" />
+          <use
+             transform="translate(-42.74271,0)"
+             id="use2236"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2228" />
+          <use
+             transform="translate(-53.42839,0)"
+             id="use2238"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2228" />
+          <use
+             transform="translate(-64.11407,0)"
+             id="use2240"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2228" />
+          <use
+             transform="translate(-74.79974,0)"
+             id="use2242"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2228" />
+        </g>
+        <g
+           id="g2276">
+          <path
+             d="M 399.83732 435.2056 A 7.931282 7.931282 0 1 1  383.97475,435.2056 A 7.931282 7.931282 0 1 1  399.83732 435.2056 z"
+             transform="matrix(1.029863,0,0,1.029863,-10.6965,-12.24135)"
+             style="fill:none"
+             id="path2270" />
+          <path
+             d="M 399.83732 435.2056 A 7.931282 7.931282 0 1 1  383.97475,435.2056 A 7.931282 7.931282 0 1 1  399.83732 435.2056 z"
+             transform="matrix(0.343005,0,0,0.343005,258.4874,286.6832)"
+             style="fill:#eeeeee"
+             id="use2272" />
+        </g>
+      </g>
+      <g
+         id="H-middle-upper">
+        <path
+           d="M 402.05847,253.18713 L 402.05847,318.632 L 297.074,318.632 L 297.074,253.18713 L 402.05847,253.18713 z "
+           id="path2140" />
+        <path
+           d="M 401.76799,264.295 L 297.238,264.295"
+           style="fill:none"
+           id="path2142" />
+        <use
+           transform="translate(0,4.1)"
+           id="use2144"
+           x="0"
+           y="0"
+           width="484"
+           height="600"
+           xlink:href="#path2142" />
+        <use
+           transform="translate(0,36)"
+           id="use2146"
+           x="0"
+           y="0"
+           width="484"
+           height="600"
+           xlink:href="#use2144" />
+        <use
+           transform="translate(0,2.9)"
+           id="use2148"
+           x="0"
+           y="0"
+           width="484"
+           height="600"
+           xlink:href="#use2146" />
+        <g
+           id="g3934">
+          <path
+             d="M 399.14415,301.56896 L 391.65083,301.56896 L 391.65083,274.96768 C 391.65083,273.58824 393.21192,271.22102 395.39747,271.22102 C 397.58302,271.22102 399.14411,273.21478 399.14411,274.96768 L 399.14415,301.56896 z "
+             style="fill:none"
+             id="use2168" />
+          <use
+             transform="translate(-21.48566,0)"
+             id="use2170"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2168" />
+          <use
+             transform="translate(-32.2285,0)"
+             id="use2172"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2168" />
+          <use
+             transform="translate(-42.97133,0)"
+             id="use2174"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2168" />
+          <use
+             transform="translate(-53.71416,0)"
+             id="use2176"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2168" />
+          <use
+             transform="translate(-64.457,0)"
+             id="use2178"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2168" />
+          <use
+             transform="translate(-75.19982,0)"
+             id="use2180"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2168" />
+          <use
+             transform="translate(-10.74283,0)"
+             id="use2899"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2168" />
+        </g>
+      </g>
+      <g
+         id="H-middle-lower">
+        <path
+           d="M 304.18599,310.90328 L 409.46795,310.56034 C 429.12413,313.85531 439.13209,332.42264 438.96062,346.56883 C 438.78021,361.45224 427.9866,367.14511 427.9866,367.14511 L 315.50295,367.14511 L 304.18599,310.90328 z "
+           style="stroke:#d40000"
+           id="path2129" />
+        <path
+           d="M 332.48881,282.04082 L 438.3857,387.93771 M 337.61275,276.91687 L 443.50964,382.81377 M 342.7367,271.79293 L 448.63359,377.68982 M 347.86062,266.669 L 453.75752,372.5659 M 352.98457,261.54506 L 458.88146,367.44195 M 358.10851,256.42111 L 464.0054,362.31801 M 332.4889,387.93764 L 438.38579,282.04074 M 327.36495,382.81369 L 433.26185,276.9168 M 322.24101,377.68975 L 428.1379,271.79286 M 317.11708,372.56582 L 423.01398,266.66893 M 311.99314,367.44188 L 417.89003,261.54498 M 306.86919,362.31793 L 412.76609,256.42104 M 301.74525,357.19399 L 407.64214,251.2971 M 296.62131,352.07005 L 402.5182,246.17315 M 291.49738,346.94612 L 397.39427,241.04923 M 291.49738,346.94612 L 397.39427,241.04923 M 286.37344,341.82218 L 392.27033,235.92528 M 327.36486,287.16476 L 433.26176,393.06165 M 322.24092,292.2887 L 428.13781,398.1856 M 317.11699,297.41263 L 423.01389,403.30952 M 311.99305,302.53657 L 417.88994,408.43347 M 306.8691,307.66052 L 412.766,413.55741 M 301.74516,312.78446 L 407.64205,418.68136 M 296.62122,317.90841 L 402.51811,423.8053 M 291.49729,323.03233 L 397.39418,428.92923 M 286.37335,328.15628 L 392.27024,434.05317 M 281.2494,333.28022 L 387.14629,439.17712 M 363.23245,251.29717 L 469.12935,357.19406 M 368.3564,246.17322 L 474.25329,352.07012 M 373.48032,241.0493 L 479.37722,346.94619 M 378.60427,235.92535 L 484.50116,341.82225 M 383.72821,230.80141 L 489.62511,336.6983 M 383.72821,230.80141 L 489.62511,336.6983 M 281.24949,336.69823 L 387.14639,230.80134 M 337.61284,393.06158 L 443.50974,287.16469 M 342.73679,398.18553 L 448.63368,292.28863 M 347.86071,403.30945 L 453.75761,297.41256 M 352.98466,408.4334 L 458.88155,302.5365 M 358.1086,413.55734 L 464.00549,307.66045 M 363.23254,418.68128 L 469.12944,312.78439 M 368.35649,423.80523 L 474.25338,317.90833 M 373.48041,428.92915 L 479.37731,323.03226 M 378.60436,434.0531 L 484.50125,328.1562 M 383.7283,439.17704 L 489.6252,333.28015 M 383.7283,439.17704 L 489.6252,333.28015"
+           style="fill:none;stroke-width:1.81158662"
+           clip-path="url(#clipPath3493)"
+           id="path2904" />
+        <path
+           d="M 428.45266,367.14511 L 315.50295,367.14511 L 304.18599,310.90328 L 401.5449,310.56034"
+           style="fill:none;stroke:#eeeeee"
+           id="use2689" />
+      </g>
+      <g
+         id="H-upper">
+        <path
+           d="M 293.6409,215.46135 L 388.2793,215.46135 L 422.69327,261.84539 L 296.63342,261.84539 L 293.6409,215.46135 z "
+           id="path1886" />
+        <path
+           d="M 300.74811,218.01582 L 384.96257,218.01582 L 415.58601,259.29089 L 303.41102,259.29089 L 300.74811,218.01582 z "
+           id="use1888" />
+        <path
+           d="M 320.88121,174.54582 L 426.7781,280.44271 M 326.00515,169.42187 L 431.90204,275.31877 M 331.1291,164.29793 L 437.02599,270.19482 M 336.25302,159.174 L 442.14992,265.0709 M 341.37697,154.05006 L 447.27386,259.94695 M 346.50091,148.92611 L 452.3978,254.82301 M 320.8813,280.44264 L 426.77819,174.54574 M 315.75735,275.31869 L 421.65425,169.4218 M 310.63341,270.19475 L 416.5303,164.29786 M 305.50948,265.07082 L 411.40638,159.17393 M 300.38554,259.94688 L 406.28243,154.04998 M 295.26159,254.82293 L 401.15849,148.92604 M 290.13765,249.69899 L 396.03454,143.8021 M 285.01371,244.57505 L 390.9106,138.67815 M 279.88978,239.45112 L 385.78667,133.55423 M 279.88978,239.45112 L 385.78667,133.55423 M 274.76584,234.32718 L 380.66273,128.43028 M 315.75726,179.66976 L 421.65416,285.56665 M 310.63332,184.7937 L 416.53021,290.6906 M 305.50939,189.91763 L 411.40629,295.81452 M 300.38545,195.04157 L 406.28234,300.93847 M 295.2615,200.16552 L 401.1584,306.06241 M 290.13756,205.28946 L 396.03445,311.18636 M 285.01362,210.41341 L 390.91051,316.3103 M 279.88969,215.53733 L 385.78658,321.43423 M 274.76575,220.66128 L 380.66264,326.55817 M 269.6418,225.78522 L 375.53869,331.68212 M 351.62485,143.80217 L 457.52175,249.69906 M 356.7488,138.67822 L 462.64569,244.57512 M 361.87272,133.5543 L 467.76962,239.45119 M 366.99667,128.43035 L 472.89356,234.32725 M 372.12061,123.30641 L 478.01751,229.2033 M 372.12061,123.30641 L 478.01751,229.2033 M 269.64189,229.20323 L 375.53879,123.30634 M 326.00524,285.56658 L 431.90214,179.66969 M 331.12919,290.69053 L 437.02608,184.79363 M 336.25311,295.81445 L 442.15001,189.91756 M 341.37706,300.9384 L 447.27395,195.0415 M 346.501,306.06234 L 452.39789,200.16545 M 351.62494,311.18628 L 457.52184,205.28939 M 356.74889,316.31023 L 462.64578,210.41333 M 361.87281,321.43415 L 467.76971,215.53726 M 366.99676,326.5581 L 472.89365,220.6612 M 372.1207,331.68204 L 478.0176,225.78515 M 372.1207,331.68204 L 478.0176,225.78515"
+           style="fill:none;stroke-width:1.81158662"
+           clip-path="url(#clipPath3817)"
+           id="path3503" />
+        <path
+           d="M 391.65355,204.19829 C 394.13566,206.68039 394.13566,210.70932 391.65355,213.19143 C 389.17146,215.67352 385.14252,215.67352 382.66042,213.19142 C 380.17832,210.70931 380.17833,206.68039 382.66042,204.1983 C 385.14252,201.71619 389.17145,201.71618 391.65355,204.19829 z "
+           id="path1890" />
+      </g>
+    </g>
+    <use
+       transform="matrix(-1,0,0,1,484,0)"
+       id="V-sida"
+       x="0"
+       y="0"
+       width="484"
+       height="600"
+       xlink:href="#H-sida" />
+    <g
+       id="Top-tower">
+      <g
+         id="T-tower-roof">
+        <path
+           d="M 314.99639,140.44639 L 278.4982,176.44639 L 205.5018,176.44639 L 169.00361,140.44639 L 242.00001,84.778055 L 314.99639,140.44639 z "
+           id="path2121" />
+        <use
+           transform="translate(0,7.100002)"
+           id="use2127"
+           x="0"
+           y="0"
+           width="484"
+           height="600"
+           xlink:href="#use2123" />
+        <path
+           d="M 169.00361,148.44639 L 242.00001,92.778055 L 314.99639,148.44639"
+           style="fill:none"
+           id="use2123" />
+        <path
+           d="M 236.1008,45.898372 L 238.5434,62.397462 L 222.0904,59.95486 L 222.0904,71.753092 L 238.5434,69.310489 L 236.1008,85.763492 L 247.89903,85.763492 L 245.45643,69.310489 L 261.90943,71.753092 L 261.90943,59.95486 L 245.45643,62.397462 L 247.89903,45.898372 L 236.1008,45.898372 z "
+           style="stroke:none"
+           id="use2565" />
+      </g>
+      <g
+         id="g2380">
+        <path
+           d="M 168.28125,139.53125 L 168.28125,173.5625 L 170.90625,174.6875 L 170.90625,339.28125 L 313.09375,339.28125 L 313.09375,174.6875 L 315.71875,173.5625 L 315.71875,139.53125 L 289.15625,139.53125 L 289.15625,162.71875 L 274.9375,162.71875 L 274.9375,139.53125 L 248,139.53125 L 248,162.71875 L 236,162.71875 L 236,139.53125 L 209.0625,139.53125 L 209.0625,162.71875 L 194.84375,162.71875 L 194.84375,139.53125 L 168.28125,139.53125 z "
+           style="stroke-width:1.5"
+           id="path1879" />
+        <path
+           d="M 315.56622,168.78686 L 168.61182,168.78686"
+           style="fill:none"
+           id="path2313" />
+        <path
+           d="M 313.2517,174.487 L 171.10438,174.487"
+           style="fill:none"
+           id="use2315" />
+        <use
+           transform="translate(0,5.4)"
+           id="use2319"
+           x="0"
+           y="0"
+           width="484"
+           height="600"
+           xlink:href="#use2315" />
+        <use
+           transform="translate(0,42)"
+           id="use2327"
+           x="0"
+           y="0"
+           width="484"
+           height="600"
+           xlink:href="#use2319" />
+        <g
+           id="g3898">
+          <path
+             d="M 184.56771,219.48586 L 173.4323,219.48586 L 173.4323,186.88041 C 173.4323,185.18962 175.75215,182.28809 178.99997,182.28809 C 182.2478,182.28809 184.56765,184.73186 184.56765,186.88041 L 184.56771,219.48586 z "
+             style="fill:none"
+             id="use2329" />
+          <use
+             transform="translate(18,0)"
+             id="use2333"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2329" />
+          <use
+             transform="translate(36,0)"
+             id="use2335"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2329" />
+          <use
+             transform="translate(54,0)"
+             id="use2337"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2329" />
+          <use
+             transform="translate(72,0)"
+             id="use2339"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2329" />
+          <use
+             transform="translate(90,0)"
+             id="use2341"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2329" />
+          <use
+             transform="translate(108,0)"
+             id="use2343"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2329" />
+          <use
+             transform="translate(126,0)"
+             id="use2345"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2329" />
+        </g>
+        <g
+           id="g3881">
+          <path
+             d="M 188,179.82549 L 188,221.68299"
+             style="fill:none"
+             id="path2357" />
+          <use
+             transform="translate(18.00001,0)"
+             id="use2359"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#path2357" />
+          <use
+             transform="translate(36.00001,0)"
+             id="use2361"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#path2357" />
+          <use
+             transform="translate(53.99999,0)"
+             id="use2363"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#path2357" />
+          <use
+             transform="translate(72.00001,0)"
+             id="use2365"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#path2357" />
+          <use
+             transform="translate(90.00001,0)"
+             id="use2367"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#path2357" />
+          <use
+             transform="translate(108,0)"
+             id="use2369"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#path2357" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="Center">
+      <g
+         id="g2491">
+        <path
+           d="M 340.85398,462.76888 L 143.14602,462.76888 L 143.14602,362.56837 L 340.85398,362.56837 L 340.85398,462.76888 z "
+           style="stroke-width:1.5"
+           id="path2404" />
+        <g
+           id="g3839">
+          <use
+             transform="translate(-27.07648,204.7169)"
+             id="use2406"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2329" />
+          <use
+             transform="translate(18,0)"
+             id="use2409"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2406" />
+          <use
+             transform="translate(36,0)"
+             id="use2411"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2406" />
+          <use
+             transform="translate(54,0)"
+             id="use2413"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2406" />
+          <use
+             transform="translate(72,0)"
+             id="use2415"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2406" />
+          <use
+             transform="translate(90,0)"
+             id="use2417"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2406" />
+          <use
+             transform="translate(108,0)"
+             id="use2419"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2406" />
+          <use
+             transform="translate(126,0)"
+             id="use2421"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2406" />
+          <use
+             transform="translate(144,0)"
+             id="use2423"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2406" />
+          <use
+             transform="translate(162,0)"
+             id="use2425"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2406" />
+          <use
+             transform="translate(180,0)"
+             id="use2427"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2406" />
+        </g>
+        <g
+           id="g3824">
+          <use
+             transform="translate(-100.763,8)"
+             id="use2442"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#g2276" />
+          <use
+             transform="translate(-100.3,0)"
+             id="use2445"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#use2442" />
+        </g>
+        <g
+           id="g3862">
+          <path
+             d="M 160.9876,384.82958 L 160.9876,426.68708"
+             style="fill:none"
+             id="path2451" />
+          <use
+             transform="translate(18.00276,0)"
+             id="use2453"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#path2451" />
+          <use
+             transform="translate(36.00552,0)"
+             id="use2455"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#path2451" />
+          <use
+             transform="translate(54.00827,0)"
+             id="use2457"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#path2451" />
+          <use
+             transform="translate(72.01103,0)"
+             id="use2459"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#path2451" />
+          <use
+             transform="translate(90.01378,0)"
+             id="use2461"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#path2451" />
+          <use
+             transform="translate(108.0165,0)"
+             id="use2463"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#path2451" />
+          <use
+             transform="translate(126.0193,0)"
+             id="use2465"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#path2451" />
+          <use
+             transform="translate(144.022,0)"
+             id="use2467"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#path2451" />
+          <use
+             transform="translate(162.0248,0)"
+             id="use2469"
+             x="0"
+             y="0"
+             width="484"
+             height="600"
+             xlink:href="#path2451" />
+        </g>
+        <path
+           d="M 142.76273,376.064 L 341.23727,376.064"
+           style="fill:none"
+           id="path2483" />
+        <use
+           transform="translate(0,4.3)"
+           id="use2485"
+           x="0"
+           y="0"
+           width="484"
+           height="600"
+           xlink:href="#path2483" />
+        <use
+           transform="translate(0,4.3)"
+           id="use2487"
+           x="0"
+           y="0"
+           width="484"
+           height="600"
+           xlink:href="#use2485" />
+        <use
+           transform="translate(0,42)"
+           id="use2489"
+           x="0"
+           y="0"
+           width="484"
+           height="600"
+           xlink:href="#use2487" />
+      </g>
+      <g
+         style="stroke-width:1.5"
+         id="Center-roof">
+        <g
+           id="g2542">
+          <path
+             d="M 133.60501,363.71789 C 129.04228,371.13233 155.42609,373.56266 159.78722,364.67326 L 242,254.62656 L 133.60501,363.71789 z "
+             id="use2526" />
+          <path
+             d="M 187.60501,363.71789 C 183.89779,372.84336 155.42609,371.85163 159.78722,364.67326 L 242,254.62656 L 187.60501,363.71789 z "
+             id="use2530" />
+          <path
+             d="M 187.60501,363.71789 C 183.89779,372.84336 209.42609,371.85163 213.78722,364.67326 L 242,254.62656 L 187.60501,363.71789 z "
+             id="use2534" />
+          <path
+             d="M 242,363.71789 C 241.71483,371.98785 214.274,373.27748 213.78722,364.67326 L 242,254.62656 L 242,363.71789 z "
+             id="use2538" />
+        </g>
+        <use
+           transform="matrix(-1,0,0,1,484.1,0)"
+           id="use2548"
+           x="0"
+           y="0"
+           width="484"
+           height="600"
+           xlink:href="#g2542" />
+      </g>
+      <path
+         d="M 237.7207,226.00038 L 239.4926,237.96905 L 227.55736,236.19715 L 227.55736,244.75575 L 239.4926,242.98385 L 237.7207,254.91909 L 246.2793,254.91909 L 244.5074,242.98385 L 256.44264,244.75575 L 256.44264,236.19715 L 244.5074,237.96905 L 246.2793,226.00038 L 237.7207,226.00038 z "
+         id="path2558" />
+    </g>
+  </g>
+  <g
+     transform="matrix(0.512025,0,0,0.512025,1.5902,-14.05004)"
+     style="fill:#d40000;stroke:#eeeeee;stroke-width:1.5"
+     clip-path="url(#clipPath2686)"
+     id="Wall">
+    <path
+       d="M 215,437.50443 L 215,459.50443 L 269,459.50443 L 269,437.50443 L 215,437.50443 z "
+       id="path3944" />
+    <path
+       d="M 315,437.50443 L 315,459.50443 L 369,459.50443 L 369,437.50443 L 315,437.50443 z "
+       id="path4237" />
+    <path
+       d="M 415,437.50443 L 415,459.50443 L 479,459.50443 L 479,437.50443 L 415,437.50443 z "
+       id="path4233" />
+    <path
+       d="M 115,437.50443 L 115,459.50443 L 169,459.50443 L 169,437.50443 L 115,437.50443 z "
+       id="path4229" />
+    <path
+       d="M 5,437.50443 L 5,459.50443 L 69,459.50443 L 69,437.50443 L 5,437.50443 z "
+       id="path4225" />
+    <g
+       id="g4269">
+      <g
+         id="g4258">
+        <path
+           d="M 192.5,459.50443 L 192.5,481.50443 L 291.5,481.50443 L 291.5,459.50443 L 192.5,459.50443 z "
+           id="use4244" />
+        <use
+           transform="translate(99,0)"
+           id="use4250"
+           x="0"
+           y="0"
+           width="484"
+           height="600"
+           xlink:href="#use4244" />
+        <use
+           transform="translate(198,0)"
+           id="use4252"
+           x="0"
+           y="0"
+           width="484"
+           height="600"
+           xlink:href="#use4244" />
+        <use
+           transform="translate(-99,0)"
+           id="use4254"
+           x="0"
+           y="0"
+           width="484"
+           height="600"
+           xlink:href="#use4244" />
+        <use
+           transform="translate(-198,0)"
+           id="use4256"
+           x="0"
+           y="0"
+           width="484"
+           height="600"
+           xlink:href="#use4244" />
+        <use
+           transform="translate(297,0)"
+           id="use4265"
+           x="0"
+           y="0"
+           width="484"
+           height="600"
+           xlink:href="#use4244" />
+      </g>
+      <use
+         transform="translate(-49.5,22)"
+         id="use4267"
+         x="0"
+         y="0"
+         width="484"
+         height="600"
+         xlink:href="#g4258" />
+    </g>
+    <use
+       transform="translate(0,44)"
+       id="use4279"
+       x="0"
+       y="0"
+       width="484"
+       height="600"
+       xlink:href="#g4269" />
+    <use
+       transform="translate(0,88)"
+       id="use4281"
+       x="0"
+       y="0"
+       width="484"
+       height="600"
+       xlink:href="#g4269" />
+    <use
+       transform="translate(0,132)"
+       id="use2003"
+       x="0"
+       y="0"
+       width="484"
+       height="600"
+       xlink:href="#g4269" />
+  </g>
+  <path
+     d="M 249.55062,1.4395041 L 1.449569,1.4395041 L 1.449569,174.9361 C 0.68232904,268.65698 81.739009,302.75585 125.5001,302.75585 C 168.49395,302.75585 250.31785,268.65698 249.55062,174.9361 L 249.55062,1.4395041 z "
+     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.88832211;stroke-linecap:round"
+     id="Frame" />
+</svg>
